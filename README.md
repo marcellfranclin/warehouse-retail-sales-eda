@@ -3,7 +3,7 @@
 ## Background Problem
 This notebook was created to evaluate student grades based on manual input such as name, student ID, and exam score. It serves as a beginner-friendly exercise to understand the basics of variables, input/output, and conditional logic in Python.
 
-## Background Problem
+## Tools and Libraries
 - Python
 - Pandas
 - Matplotlib
